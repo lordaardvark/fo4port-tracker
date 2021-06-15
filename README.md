@@ -1,7 +1,7 @@
 # fo4port-tracker
 A jank github used to track issues with a large-scale project.
 
-You can find these ports here: LINK
+You can find these ports here: https://lordaardvark.com/html/assets.html?cat=Models&sect=Prop_Packs&asset=Fallout_4___Vault_Interior
 
 If you find any missing materials or models that don't work, please go to the Issues section and submit an issue. Please include the name of the pack, the name of the model, and the nature of the issue. An example issue submission would look like this:
 
